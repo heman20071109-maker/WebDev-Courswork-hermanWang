@@ -1,6 +1,6 @@
 # 🌐 Intro to Web Development 🚀
 
-- **Name:** [Your Name Here]
+- **Name:** [Herman Wang]
 - **Instructor:** Mr. Gullo
 - **Course Authors:** Mary Kiang, Atiyah Conry
 - **Date of Completion:** [Date Here]
