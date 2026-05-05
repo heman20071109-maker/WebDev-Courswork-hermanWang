@@ -1,6 +1,6 @@
 # Unit 8 Reflection
 
-[What I learned: I learned how to make my website look good on both computers and mobile phones using responsive design (like flexbox or media queries).
+[What I learned: I learned how to make my website look good on both computers and mobile phones using responsive design.
 
 Challenges: My text and images looked messy when I shrunk the browser window to a phone size.
 
